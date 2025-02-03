@@ -264,18 +264,13 @@ export default function PortfolioSection() {
               <div className='links'>
                 <div className='section'>
                   <div>Email</div>
-                  <a href="mailto:sgosain2@illinois.edu">sgosain2@illinois.edu</a>
+                  <a href="mailto:smodi12@umd.edu"> smodi12@umd.edu</a>
                 </div>
-                <div className='section'>
-                  <div>Website</div>
-                  <a href="https://shrutigosain.com" target="_blank" rel="noopener noreferrer">
-                    shrutigosain.com
-                  </a>
-                </div>
+               
                 <div className='section'>
                   <div>LinkedIn</div>
-                  <a href="https://linkedin.com/in/shruti-gosain" target="_blank" rel="noopener noreferrer">
-                    shruti.gosain
+                  <a href="https://www.linkedin.com/in/sidmodi12" target="_blank" rel="noopener noreferrer">
+                    Siddharth Modi
                   </a>
                 </div>
               </div>
@@ -296,20 +291,11 @@ export default function PortfolioSection() {
                 className='image'
               />
               <div className='socialIcons'>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Siddharth180201" target="_blank" rel="noopener noreferrer">
                   <FaGithub size={20} />
                 </a>
-                <a href="https://medium.com" target="_blank" rel="noopener noreferrer">
-                  <FaMedium size={20} />
-                </a>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                  <FaTwitter size={20} />
-                </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href=" https://www.linkedin.com/in/sidmodi12" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin size={20} />
-                </a>
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                  <FaInstagram size={20} />
                 </a>
               </div>
             </motion.div>
